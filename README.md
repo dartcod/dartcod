@@ -1,0 +1,5 @@
+- 👋 Hello, I am Muhammad Sadiq, a flutter developer
+- 👀 I am interested in mobile application and AI
+- 🌱 I am currently learning English and mobile programming
+- 📫 How to contact me t.me/@Muhammadsodiq_Tursunhonov
+- ⚡ Fun fact: I'm from 2008
